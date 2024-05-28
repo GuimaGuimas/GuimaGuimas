@@ -1,5 +1,5 @@
 ```js
-import Desenvolvedor from "GuimaGuimas";
+import Developer from "GuimaGuimas";
 
 class AboutMe extends Developer {
   name = "Guilherme";
@@ -7,7 +7,7 @@ class AboutMe extends Developer {
   college = "FIAP";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   languages = ["Python", "JavaScript", "Java"];
   frameworks = ["React"];
 }
