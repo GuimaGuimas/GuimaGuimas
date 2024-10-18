@@ -8,7 +8,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["Python", "JavaScript", "Java"];
-  frameworks = ["React"];
+  languages = ["Python", "Java"];
+  frameworks = ["SpringBoot", "Django"];
 }
 ```
